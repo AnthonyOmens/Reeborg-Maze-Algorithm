@@ -2,6 +2,9 @@
 # Go to the link, past this code an observe Reeborg escape the maze
 # https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
+# Undefined methods like 'turn_left()'' are defined on Reeborgs World website
+
+
 
 
 def turn_right():
